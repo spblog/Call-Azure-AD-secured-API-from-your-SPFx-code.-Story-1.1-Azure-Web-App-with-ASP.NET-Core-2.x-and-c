@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-aad-api-client-side-solution",
+    "id": "ffc7b618-2cb3-40ff-b711-80ebfb331945",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-aad-api.sppkg"
+  }
+}
